@@ -1,2 +1,2 @@
-# sample_login
+# my first repo
 # my first commit
